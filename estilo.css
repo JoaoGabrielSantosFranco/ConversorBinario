@@ -1,0 +1,33 @@
+
+* {
+    font-family: Courier New, monospace;
+    background-color:#f0e68c;
+   
+  }
+
+.principal {
+  text-align: center;
+  font-family: Courier New, monospace;
+  font-weight: 200px;
+  
+}
+
+.entrada {
+  text-align: center;
+  background-color: rgb(235, 235, 240);
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  font-size: 32px;
+  margin: 20px;
+  padding: 20px;
+  display: inline;
+}
+
+.converter {
+  border-radius: 5px;
+  font-size: 32px;
+  background-color: #0066b8;
+  padding: 15px 50px;
+  border: none;
+  color: white;
+}
